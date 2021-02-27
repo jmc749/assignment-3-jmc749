@@ -7,10 +7,22 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<br>
+
+### Research
+
 * I am interested in researching how diet influences the gut microbiota and how the gut microbiota influences the ways in which consumed foods are processed and absorbed by the host.
 
-* I enjoy reflecting on how I might improve my diet based on what I learn about the gut microbiota in my research.
+<br>
+
+### Career Goals
 
 * I hope to learn more about this and other areas of nutrition in order to eventually contribute to and advocate for programs and policies that promote nutritious eating in communities across the country.
 
+<br>
+
+### Hobbies
+
 * In my free time, I love cooking, visiting restaurants, exploring nature and traveling.
+
+* I enjoy reflecting on how I might improve my diet based on what I learn about the gut microbiota in my research.
