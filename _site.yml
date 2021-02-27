@@ -7,3 +7,9 @@ navbar:
       href: janine.html
     - text: ""
       href: 
+output:
+  html_document:
+    theme: sandstone
+    highlight: textmate
+    toc: true 
+    toc_float: true
