@@ -1,0 +1,18 @@
+---
+title: "Gut Microbiota"
+author: "Janine Comrie"
+date: "03/03/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Personal Github Account: <https://github.com/jmc749>
+
+Collaborator: 
+
+Collaborator Github Account: <>
+
+![The large intestine is the region of the gastrointestinal tract most densely populated by commensal microbes, but microbes can be found in other regions of the gut as well.](https://blog.dana-farber.org/insight/wp-content/uploads/2018/03/8925-Blog-Image-of-Gut.jpg)
