@@ -1,0 +1,9 @@
+output_dir: "."
+navbar:
+  left:
+    - text: "Gut Microbiota"
+      href: index.html
+    - text: "Janine"
+      href: janine.html
+    - text: ""
+      href: 
