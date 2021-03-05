@@ -1,0 +1,24 @@
+---
+title: "Jeanne"
+date: "3/4/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![This is Jeanne](/Users/jeanne/github/JLC_Moroto_Tufts_2018.JPG)
+
+### Things about Jeanne
+
+* I'm from the Midwest
+  + Southwestern Wisconsin is not flat, it is driftless!
+  + Yes I like cheese
+  + Yes I support the Packers; it is obligatory, but I don't really follow American football
+* I want to study and work in both environmental science and public health
+  + One Health is the paradigm, baby
+  + Community-based intersectional environmental work of all kinds is probably the way so let's try it at scale and find out
+* I'm a partner and a parent
+  + My son is two years old and loves to play in water, mud, sand, rocks, leaves, and dirt
+  + My partner and I got to know each other in Morocco over 10 years ago
