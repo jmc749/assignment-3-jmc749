@@ -6,7 +6,7 @@ navbar:
     - text: "Janine"
       href: janine.html
     - text: "Jeanne"
-      href: jeanne.Rmd
+      href: jeanne.html
 output:
   html_document:
     theme: sandstone
